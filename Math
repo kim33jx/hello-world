@@ -1,10 +1,13 @@
 var = x,y,z;
-document.write ("x = "); // prints a message
+document.write ("x = 2"); // prints a message
 document.write (x); // prints the value of x
-document.write (", y = "); // prints a message
+document.write (", y = 56"); // prints a message
 document.write (y); // prints value of y
 document.write ("<br>x + y is "); // prints a string message
-z = x + y; // adds 50 + 10 and assigns the result to the variable z
-document.write (z); // prints the value of z, which is 60
-document.write ("<br>x * y is "); // prints a message
-z = x * y; // multiplies x * y and assigns result to z 	 		
+var = a,b,c;
+document.write ("a = 3"); // prints a message
+document.write (a); // prints the value of a
+document.write (", b = 6"); // prints a message
+document.write (b); // prints value of b
+document.write ("<br>a * c is "); // prints a message
+c = a * b; // multiplies x * y and assigns result to z 	 		
